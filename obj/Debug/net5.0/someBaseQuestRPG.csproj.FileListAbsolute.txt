@@ -1,0 +1,16 @@
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\bin\Debug\net5.0\someBaseQuestRPG.exe
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\bin\Debug\net5.0\someBaseQuestRPG.deps.json
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\bin\Debug\net5.0\someBaseQuestRPG.runtimeconfig.json
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\bin\Debug\net5.0\someBaseQuestRPG.runtimeconfig.dev.json
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\bin\Debug\net5.0\someBaseQuestRPG.dll
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\bin\Debug\net5.0\someBaseQuestRPG.pdb
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\someBaseQuestRPG.csproj.AssemblyReference.cache
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\someBaseQuestRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\someBaseQuestRPG.AssemblyInfoInputs.cache
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\someBaseQuestRPG.AssemblyInfo.cs
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\someBaseQuestRPG.csproj.CoreCompileInputs.cache
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\someBaseQuestRPG.dll
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\refint\someBaseQuestRPG.dll
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\someBaseQuestRPG.pdb
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\someBaseQuestRPG.genruntimeconfig.cache
+C:\Users\edgar\OneDrive\Desktop\SomeBaseQuestRPG\obj\Debug\net5.0\ref\someBaseQuestRPG.dll
